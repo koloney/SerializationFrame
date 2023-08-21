@@ -4,9 +4,17 @@
   "version": "1.0.1",
   "unity": "2019.2",
   "description": "Serialization Frame For Unity.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koloney/SerializationFrame.git"
+  },
+  "author": {
+    "name": "koloney",
+    "url": "https://github.com/koloney"
+  },
   "keywords": [
     "Serialization",
     "SerializationFrame"
   ],
-  "dependencies": {}
+  "dependencies": {} 
 }
