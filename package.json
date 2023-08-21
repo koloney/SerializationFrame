@@ -1,0 +1,12 @@
+{
+  "name": "com.wemake.serializationframe",
+  "displayName": "Serialization Frame",
+  "version": "1.0.1",
+  "unity": "2019.2",
+  "description": "Serialization Frame For Unity.",
+  "keywords": [
+    "Serialization",
+    "SerializationFrame"
+  ],
+  "dependencies": {}
+}
